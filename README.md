@@ -58,7 +58,6 @@
 Simply run 'nodemon server.js' and in a browser run the url: 
 http://localhost:3001/
 
-To perform the crud operations separately use INSOMNIA an open source API client. 
 ```
 
 
