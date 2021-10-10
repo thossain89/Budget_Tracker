@@ -64,8 +64,7 @@ To perform the crud operations separately use INSOMNIA an open source API client
 
 ## Demo of Workout Tracker Installed on Android device:
 
-<img src="./assets/img/demo1.jpg" alt="demo1" width='200'/>
-<img src="./assets/img/demo2.jpg" alt="demo1" width='200'/>    
+<img src="./assets/img/demo1.jpg" alt="demo1" width='200'/>  <img src="./assets/img/demo2.jpg" alt="demo1" width='200'/>   
 
 
 ## Contribution
